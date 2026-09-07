@@ -67,7 +67,7 @@ The PostgreSQL warehouse was connected to Power BI to create an interactive sale
 
 ### 📊 Dashboard
 
-![Online Retail Sales Dashboard](screenshots/powerbi_dashboard.png)
+![Online Retail Sales Dashboard](Dashboard.png)
 
 ## 📁 Project Structure
 
