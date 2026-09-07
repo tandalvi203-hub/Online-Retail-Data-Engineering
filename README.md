@@ -72,7 +72,7 @@ The PostgreSQL warehouse was connected to Power BI to create an interactive sale
 ```text
 Online-Retail-Data-Engineering/
 │
-├── screenshots/
+├── Dashboard.png
 ├── sql/
 │   └── analysis.sql
 ├── src/
