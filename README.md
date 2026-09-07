@@ -4,10 +4,8 @@ An end-to-end data engineering project built using the **Online Retail dataset**
 
 ## 📌 Project Overview
 
-The project follows a complete data pipeline:
-
-**Raw Excel Data → Python Cleaning → PostgreSQL Data Warehouse → SQL Analysis → Power BI Dashboard**
-
+The project follows a complete data pipeline:<br>
+**Raw Excel Data → Python Cleaning → PostgreSQL Data Warehouse → SQL Analysis → Power BI Dashboard**<br>
 The main goal was to understand how raw transactional data can be processed and converted into useful business insights.
 
 ## 🛠️ Technologies Used
